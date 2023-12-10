@@ -30,7 +30,7 @@ As tecnologias que tenho usado no meu projeto é:
 ## 😎 Veja como o projeto ficou em diferentes dispositivos:
 
 - computador 
-![](https://gabrielmarciel93.github.io/projetoIntegrador/](https://gabrielmarciel93.github.io/calculadora/))
+![Clique Aqui](https://gabrielmarciel93.github.io/projetoIntegrador/](https://gabrielmarciel93.github.io/calculadora/))
 
 ----
 
