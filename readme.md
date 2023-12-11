@@ -1,12 +1,12 @@
 <!-- Esse exemplo e um pouco mais elaborado para  quem quer mostra mais informações sobre seus projetos pessoais -->
 
 
-# 🚀 Projeto - Portifólio Gabriel Marciel
+# 🚀 Projeto - Calculadora
 
 ## 📝 Descrição
 
    Neste projeto que venho desenvolvendo é da parte prática que tenho feito 
-   no curso de front end do SENAI. 
+   no curso de front end do SENAI.
   
 
 ## 💻 Tecnologias
@@ -29,9 +29,9 @@ As tecnologias que tenho usado no meu projeto é:
    
 ## 😎 Veja como o projeto ficou em diferentes dispositivos:
 
-- computador 
-![](https://gabrielmarciel93.github.io/projetoIntegrador/)
+- Computador →
+[Clique Aqui](https://gabrielmarciel93.github.io/calculadora/)
 
 ----
 
-feito com ❤️ por [Gabriel Marciel](https://github.com/gabrielmarciel93)
+feito com ❤️ por [Gabriel Marciel](https://gabrielmarciel93.github.io/projetoIntegrador/)
